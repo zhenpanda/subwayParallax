@@ -1,0 +1,49 @@
+body {
+  background-color: black;
+}
+.zone {
+  height: 2400px;
+  width: 1000px;
+  background-color: black;
+  margin: auto;
+}
+.box {
+  padding-top: 739px;
+  height: 739px;
+  width: 959px;
+  margin: auto;
+}
+
+#cover-floor {
+  height: 739px;
+  width: 959px;
+  background-color: black;
+  z-index: 10;
+  margin: auto;
+  top: 0px;
+  position: absolute;
+}
+
+#layer_one {
+  top: 739px;
+  display: block;
+  position: absolute;
+}
+
+#layer_two {
+  top: 739px;
+  display: block;
+  position: absolute;
+}
+
+#layer_three {
+  top: 739px;
+  display: block;
+  position: absolute;
+}
+
+#layer_four {
+  top: 739px;
+  display: block;
+  position: absolute;
+}
